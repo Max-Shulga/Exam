@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Studies\\main\\С#\\Exam\\Exam.csproj": {}
+    "E:\\Studies\\main\\С#\\Exam\\C_code\\Exam.csproj": {}
   },
   "projects": {
-    "E:\\Studies\\main\\С#\\Exam\\Exam.csproj": {
+    "E:\\Studies\\main\\С#\\Exam\\C_code\\Exam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Studies\\main\\С#\\Exam\\Exam.csproj",
+        "projectUniqueName": "E:\\Studies\\main\\С#\\Exam\\C_code\\Exam.csproj",
         "projectName": "Exam",
-        "projectPath": "E:\\Studies\\main\\С#\\Exam\\Exam.csproj",
+        "projectPath": "E:\\Studies\\main\\С#\\Exam\\C_code\\Exam.csproj",
         "packagesPath": "C:\\Users\\Макс\\.nuget\\packages\\",
-        "outputPath": "E:\\Studies\\main\\С#\\Exam\\obj\\",
+        "outputPath": "E:\\Studies\\main\\С#\\Exam\\C_code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Макс\\AppData\\Roaming\\NuGet\\NuGet.Config"
